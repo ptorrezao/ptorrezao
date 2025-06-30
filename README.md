@@ -1,9 +1,5 @@
-<div>
-<a href="https://github.com/ptorrezao">
-<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=ptorrezao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=ptorrezao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptorrezao&layout=compact&langs_count=16&theme=dracula"/>
-
-<div>
+![PTorrezao's Stats](https://github-readme-stats.vercel.app/api?username=ptorrezao&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ptorrezao&theme=vue-dark&layout=compact&show_icons=true&hide_border=true&count_private=true&langs_count=16)
 
 <div>
   <a href="https://www.linkedin.com/in/pedrotorrezao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
